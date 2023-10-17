@@ -1,0 +1,1 @@
+rd /s /q .\build & npm run build && move .\ImageCreator-win32-x64 .\build && copy .\resources\* .\build\resources & mkdir .\build\images

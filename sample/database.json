@@ -1,0 +1,27 @@
+{
+	"media": [
+		{
+			"name": "editorial photo"
+		},
+		{
+			"name": "sketch drawing"
+		},
+		{
+			"name": "digital art"
+		},
+		{
+			"name": "illustration"
+		}
+	],
+	"subject": [
+		{
+			"name": "astronaut"
+		},
+		{
+			"name": "koi fish"
+		},
+		{
+			"name": "robot"
+		}
+	]
+}

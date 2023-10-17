@@ -1,0 +1,9 @@
+node_modules
+backup
+build
+images/*
+
+*/debug.log
+*/testing.json
+
+!*/.gitfolder
